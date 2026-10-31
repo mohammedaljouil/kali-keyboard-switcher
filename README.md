@@ -53,3 +53,7 @@ Custom layouts:
 `Left Alt + Left Shift`
 
 ### Note: the script by defualt configure to arabic and english layout if you want another layout change the layout in the script.
+
+
+## disable parallel layout and let english is the only langauage layout in the kali by following command :
+setxkbmap -layout us -option
